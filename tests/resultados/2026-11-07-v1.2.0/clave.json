@@ -1,0 +1,34 @@
+{
+ "CCE-001": {
+  "A": "claude",
+  "B": "codex"
+ },
+ "CCE-003": {
+  "A": "codex",
+  "B": "claude"
+ },
+ "CCE-004": {
+  "A": "codex",
+  "B": "claude"
+ },
+ "CCE-005": {
+  "A": "claude",
+  "B": "codex"
+ },
+ "CCE-006": {
+  "A": "codex",
+  "B": "claude"
+ },
+ "CCE-007": {
+  "A": "codex",
+  "B": "claude"
+ },
+ "CCE-008": {
+  "A": "codex",
+  "B": "claude"
+ },
+ "CCE-010": {
+  "A": "codex",
+  "B": "claude"
+ }
+}

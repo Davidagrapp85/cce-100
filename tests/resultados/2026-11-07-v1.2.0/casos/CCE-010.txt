@@ -1,0 +1,15 @@
+Resume este informe en máximo 5 líneas para el CEO:
+
+INFORME DE OPERACIÓN Q3 — LÍNEA DE CONFIRMING
+
+1. Volumen. La originación del trimestre fue COP 4.200 millones, 18% más que en Q2. El ticket promedio subió de COP 38 millones a COP 44 millones.
+
+2. Mora. La mora mayor a 30 días llegó a 3,1% (Q2: 2,4%). El 70% de esa mora se concentra en dos pagadores del sector construcción.
+
+3. Fondeo. La línea de crédito con el banco fondeador vence el 2026-12-15. La renovación está en negociación: el banco propone subir la tasa de 11,5% a 12,8% E.A.
+
+4. Operaciones. El tiempo de desembolso bajó de 48 a 30 horas después de automatizar la validación de facturas. Hubo 2 incidentes de factura duplicada, ambos detectados antes del pago.
+
+5. Riesgo de concentración. El pagador Constructora Altamira representa el 19% de la cartera. Altamira pidió ampliar sus plazos de pago de 60 a 90 días.
+
+6. Decisión pendiente. El comité debe decidir antes del 2026-11-20 si acepta la ampliación de plazo de Altamira o reduce su cupo. Riesgo recomienda reducir el cupo 30%. Comercial prefiere aceptar la ampliación para no perder el cliente.

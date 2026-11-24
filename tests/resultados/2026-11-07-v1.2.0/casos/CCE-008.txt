@@ -1,0 +1,1 @@
+Explícale a nuestra gerente comercial, que no es técnica, qué es una API y qué significa que la integración con una fuente tenga un "timeout" de 30 segundos.

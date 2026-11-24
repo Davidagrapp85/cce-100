@@ -1,0 +1,13 @@
+Explícale a alguien de producto qué hace esta función:
+
+```ts
+export function getRiskScore(signals: Signal[], cfg: ScoringConfig): number | null {
+  const valid = signals.filter((s) => s.level !== "none" && !s.fictitious);
+  if (valid.length < cfg.minSignals) return null;
+  const penalty = valid.reduce(
+    (acc, s) => acc + (s.level === "red" ? cfg.redPenalty : s.level === "amber" ? cfg.amberPenalty : 0),
+    0,
+  );
+  return Math.max(0, 100 - penalty);
+}
+```

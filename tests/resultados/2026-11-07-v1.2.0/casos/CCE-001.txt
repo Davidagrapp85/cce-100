@@ -1,0 +1,3 @@
+Tengo esta nota de mantenimiento y la necesito como procedimiento para un técnico nuevo:
+
+"Antes de revisar la banda transportadora apágala y bloquea el tablero con candado y tarjeta, verifica que no quede energía residual y revisa la tensión de la banda y los rodamientos, y si notas holgura de más de 5 mm ajusta los tornillos a 25 N·m; usa guantes y gafas todo el tiempo; al terminar retira el bloqueo solo tú, que fuiste quien lo puso, y prueba en vacío 2 minutos."

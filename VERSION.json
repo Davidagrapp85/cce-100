@@ -1,0 +1,12 @@
+{
+  "standard": "CCE-100",
+  "version": "1.2.0",
+  "release_date": "2026-11-07",
+  "status": "candidate",
+  "standard_scope": "Comunicación Clara y Estructurada; adaptación original inspirada en principios ASD-STE100",
+  "core_path": "cce-100/SKILL.md",
+  "governance_path": "cce-100/references/gobernanza.md",
+  "quality_threshold": "9/10 por caso, 0 pérdidas materiales",
+  "requires_human_approval": true,
+  "production_auto_update": false
+}

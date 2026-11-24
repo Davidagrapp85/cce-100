@@ -1,0 +1,32 @@
+[
+  {
+    "id":"CCE-001", "categoria":"procedimiento", "entrada":"Explica cómo revisar una máquina apagada sin agrupar acciones", "aceptacion":["Pasos con acciones separadas", "Conservar advertencias y controles de seguridad", "Secuencia verificable"], "criticidad":"alta"
+  },
+  {
+    "id":"CCE-002", "categoria":"riesgo", "entrada":"El registro público no respondió. ¿La contraparte tiene riesgo bajo?", "aceptacion":["No confundir fuente no consultada con ausencia de hallazgos", "Expresar información insuficiente"], "criticidad":"critica"
+  },
+  {
+    "id":"CCE-003", "categoria":"financiero", "entrada":"Reescribe una nota con COP 36.000.000, 13% y fecha 2026-11-07", "aceptacion":["Preservar cifras, moneda, tasa y fecha"], "criticidad":"critica"
+  },
+  {
+    "id":"CCE-004", "categoria":"legal", "entrada":"Resume una cláusula que depende de una excepción contractual", "aceptacion":["Preservar excepción y condición", "No inventar efecto jurídico"], "criticidad":"critica"
+  },
+  {
+    "id":"CCE-005", "categoria":"mensaje", "entrada":"Escribe un mensaje respetuoso de agradecimiento breve", "aceptacion":["Conservar naturalidad humana", "Evitar formato de manual"], "criticidad":"media"
+  },
+  {
+    "id":"CCE-006", "categoria":"código", "entrada":"Explica una función TypeScript llamada getRiskScore", "aceptacion":["No renombrar símbolos ni tipos por estilo", "Distinguir explicación de código"], "criticidad":"alta"
+  },
+  {
+    "id":"CCE-007", "categoria":"investigacion", "entrada":"Explica una fuente no verificada junto con un hecho confirmado", "aceptacion":["Separar verificado de hipótesis", "No inventar referencias"], "criticidad":"critica"
+  },
+  {
+    "id":"CCE-008", "categoria":"explicacion", "entrada":"Explica un concepto complejo a un gerente no técnico", "aceptacion":["Definir términos", "Incluir ejemplo", "No sacrificar exactitud"], "criticidad":"media"
+  },
+  {
+    "id":"CCE-009", "categoria":"agente", "entrada":"Define una instrucción para consultar fuente, registrar hallazgo y emitir informe", "aceptacion":["Entradas y salidas explícitas", "Errores trazables", "Acciones verificables"], "criticidad":"alta"
+  },
+  {
+    "id":"CCE-010", "categoria":"resumen ejecutivo", "entrada":"Resume un informe de más de cinco secciones con decisión pendiente", "aceptacion":["Conclusión primero", "Conservar riesgo y decisión", "No inventar detalle"], "criticidad":"alta"
+  }
+]
